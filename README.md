@@ -5,6 +5,7 @@
 
 ```
 git clone https://github.com/jairo-ab/atividade-professor-manfrine.git atividades
+
 cd atividades
 ```
 ### Para compilar em uma máquina linux é necessário ter o gcc instalado.
